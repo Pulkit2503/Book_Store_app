@@ -1,5 +1,6 @@
 # Book_Store_app
 A modern web-based Bookstore Management system built with Django.
+
 This project includes features like user authentication, dynamic cart management using sessions, a dark corporate-themed UI, and animated interactions.
 
 Features
